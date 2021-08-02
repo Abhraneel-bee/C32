@@ -1,2 +1,2 @@
-# C32
-This ia an offline game. Have fun!
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
